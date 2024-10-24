@@ -1,0 +1,13 @@
+main {
+  background-color: red;
+  height: 100vh;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+h4 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}/*# sourceMappingURL=custom.css.map */

@@ -1,0 +1,36 @@
+@import '@/assets/variables.scss';
+@import '@/assets/components/sidebar.scss';
+
+body {
+    background-color: $forth !important;
+}
+
+main {
+    height: 100vh;
+}
+
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    // font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.card {
+    border-radius: 20px;
+}
+
+// -- #61892F
+// -- #86C232
+// -- #222629
+// -- #474B4F
+// -- #6B6E70
+
+// Override multiple Bootstrap variables
+
+
+// Import Bootstrap's SCSS
+@import "~bootstrap/scss/bootstrap";
